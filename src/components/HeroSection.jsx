@@ -13,7 +13,7 @@ function HeroSection() {
 
        <div className="relative z-10 px-8 md:px-20 lg:px-32 text-white max-w-4xl">
 
-  <h1 className="text-6xl md:text-8xl font-bold leading-tight mb-6">
+  <br /><br /><br /><br /><br /><br /><br /><h1 className="text-6xl md:text-8xl font-bold leading-tight mb-6">
     San Ildefonso College
   </h1><br />
 
@@ -25,7 +25,7 @@ function HeroSection() {
     A Catholic Institution committed to excellence
     in education, leadership, and holistic formation
     for future generations.
-  </p><br /><br /><br />
+  </p>
 
   <div className="flex flex-wrap gap-8 mt-8">
 
